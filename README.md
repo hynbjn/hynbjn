@@ -1,6 +1,5 @@
 <h1>HYUNBIN JIN</h1>
 
-[[CV]](https://drive.google.com/file/d/1_5V9ZjZtL-5RvGyTqWrR1sk7MPqJk4-F/view?usp=sharing) 
 [[email]](mailto:hyunbin.jin@snu.ac.kr)
 
 <h3>education</h3>

@@ -6,12 +6,7 @@
  
 - Bachelor of Political Science and International Studies, Yonsei University  |  Mar. 2018 ~ Feb. 2023
 - Exchange Student at New York University  |  Sep. 2021 ~ Dec. 2021
-- Master of Data Science, Seoul National University  |  Sep. 2023 ~ Feb. 2026 (expected)
- 
-<h3>work experiences</h3>
-
-- Intern at Data Analysis Team, UpennSolution, Korea  |  Feb. 2021 ~ Jul. 2021
-- NLP Research Engineer at LETR, Twigfarm, Korea  |  Oct. 2022 ~ Feb. 2023
+- Master of Data Science, Seoul National University  |  Sep. 2023 ~ Feb. 2026 
 
 <h3>tech stacks</h3>
 
